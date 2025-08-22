@@ -1,20 +1,18 @@
 {
-  "Author": "darkarchon",
-  "Name": "Mare Synchronos",
-  "InternalName": "MareSynchronos",
+  "Author": "kasu",
+  "Name": "Stellar Sync",
+  "InternalName": "StellarSync",
   "AssemblyVersion": "0.8.35.0",
   "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/Penumbra-Sync/client",
-  "Tags": [
-    "customization"
-  ],
+  "RepoUrl": "https://github.com/Stellar-Sync/client",
+  "Tags": ["customization"],
   "DalamudApiLevel": 8,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/Penumbra-Sync/client/main/MareSynchronos/images/logo.png",
+  "IconUrl": "https://raw.githubusercontent.com/Stellar-Sync/client/main/StellarSync/images/logo.png",
   "Punchline": "Let others see you as you see yourself.",
   "AcceptsFeedback": true
 }
