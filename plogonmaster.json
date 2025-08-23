@@ -14,8 +14,8 @@
     "Punchline": "Let others see you as you see yourself.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://cf.stellarsync.com/release/0.11.22.zip",
+    "DownloadLinkInstall": "https://github.com/Stellar-Sync/client/archive/refs/tags/v1.0.0.zip",
     "DownloadLinkTesting": "https://cf.stellarsync.com/release/0.11.22.zip",
-    "DownloadLinkUpdate": "https://cf.stellarsync.com/update/0.11.22.zip"
+    "DownloadLinkUpdate": "https://github.com/Stellar-Sync/client/archive/refs/tags/v1.0.0.zip"
   }
 ]
