@@ -3,7 +3,7 @@
     "Author": "kasu",
     "Name": "Stellar Sync",
     "InternalName": "StellarSync",
-    "AssemblyVersion": "0.12.0",
+    "AssemblyVersion": "0.11.22",
     "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Stellar-Sync/client",
@@ -14,8 +14,8 @@
     "Punchline": "Let others see you as you see yourself.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/Stellar-Sync/client/archive/refs/tags/v1.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Stellar-Sync/client/releases/download/v1.0.0/latest.zip",
     "DownloadLinkTesting": "https://cf.stellarsync.com/release/0.11.22.zip",
-    "DownloadLinkUpdate": "https://github.com/Stellar-Sync/client/archive/refs/tags/v1.0.0.zip"
+    "DownloadLinkUpdate": "hhttps://github.com/Stellar-Sync/client/releases/download/v1.0.0/latest.zip"
   }
 ]
