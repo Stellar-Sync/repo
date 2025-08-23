@@ -16,6 +16,6 @@
     "IsTestingExclusive": "False",
     "DownloadLinkInstall": "https://github.com/Stellar-Sync/client/releases/download/v1.0.0/latest.zip",
     "DownloadLinkTesting": "https://cf.stellarsync.com/release/0.11.22.zip",
-    "DownloadLinkUpdate": "hhttps://github.com/Stellar-Sync/client/releases/download/v1.0.0/latest.zip"
+    "DownloadLinkUpdate": "https://github.com/Stellar-Sync/client/releases/download/v1.0.0/latest.zip"
   }
 ]
