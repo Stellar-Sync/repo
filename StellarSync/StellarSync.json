@@ -2,7 +2,7 @@
   "Author": "Kasu",
   "Name": "Stellar Sync",
   "InternalName": "StellarSync",
-  "AssemblyVersion": "1.0.0.4",
+  "AssemblyVersion": "1.0.0.5",
   "Description": "A character synchronization plugin for FFXIV that synchronizes character mods and appearance with other players.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Stellar-Sync/client",
