@@ -17,5 +17,24 @@
     "DownloadLinkInstall": "https://github.com/Stellar-Sync/client/releases/download/v1.0.0.6/latest.zip",
     "DownloadLinkTesting": "https://github.com/Stellar-Sync/client/releases/download/v1.0.0.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Stellar-Sync/client/releases/download/v1.0.0.6/latest.zip"
+  },
+  {
+    "Author": "Kasu",
+    "Name": "Mare Synchronos (Testing)",
+    "InternalName": "mareSynchronos",
+    "AssemblyVersion": "1.11.0",
+    "Description": "Character synchronization plugin for FFXIV that synchronizes Penumbra mods and Glamourer state with other paired clients. Configured for Stellar Sync server.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Stellar-Sync/mare-client",
+    "Tags": ["customization"],
+    "DalamudApiLevel": 13,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Stellar-Sync/mare-client/main/MareSynchronos/images/icon.png",
+    "Punchline": "Let others see you as you see yourself (Stellar Sync Server)",
+    "IsHide": "False",
+    "IsTestingExclusive": "True",
+    "DownloadLinkInstall": "https://github.com/Stellar-Sync/mare-client/releases/download/1.11.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Stellar-Sync/mare-client/releases/download/1.11.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Stellar-Sync/mare-client/releases/download/1.11.0/latest.zip"
   }
 ]
