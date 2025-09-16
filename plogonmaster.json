@@ -6,7 +6,7 @@
     "AssemblyVersion": "1.11.0",
     "Description": "A character synchronization plugin for FFXIV that synchronizes character mods and appearance with other players.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Stellar-Sync/client",
+    "RepoUrl": "https://github.com/Stellar-Sync/mare-client",
     "Tags": ["customization"],
     "DalamudApiLevel": 13,
     "LoadPriority": 0,
